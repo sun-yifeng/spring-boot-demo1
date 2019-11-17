@@ -20,7 +20,7 @@ pagehelper:
     returnPageInfo: check
 
 
-# 日志
+# 日志级别
 logging:
   level:
     com:
